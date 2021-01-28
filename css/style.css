@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p,h1,h2,h3,h4,h5,h6,ul,ol{
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a,a:hover{
+    text-decoration: none;
+}
+header {
+    background: url(../images/gameheader.jpg);
+    background-position:  center;
+    background-size: cover;
+}
+header span {
+    color:#ffc600;
+}
+h1 {
+    padding-top:114px;
+    font-size: 202.14px;
+}
+header p {
+    font-size: 18px;
+    width: 400px;
+}
+header a {
+    color:#ffc905 !important;
+    padding-top:25px;
+    padding-bottom:60px;
+}
+nav {
+    background: url(../images/game\ head.jpg);
+    background-size: cover;
+}
+nav {
+    padding-bottom:425px;
+}
+nav h2 {
+    padding-top:70px;
+    width: 500px;
+    font-size: 60px;
+    padding-bottom:52px;
+}
+nav ul {
+   width: 360px; 
+}
+nav a {
+    padding-bottom:5px;
+    margin-bottom:415px;
+}
+nav ul a:hover {
+  color:#fff !important;
+  border-bottom:2px solid #ffc600  
+}
+.blank1 p {
+    padding-top:80px;
+    margin-bottom:0;
+    font-size: 50px;
+}
+.blank1 h3 {
+    margin-top:0;
+   font-size: 80px; 
+}
+.blank1 span {
+    color:#ffc600;
+}
+.blank p {
+  font-size: 14px;  
+  color:#676767;
+}
+.par-1 {
+  color:#000; 
+  font-size: 14px; 
+}
+.par-2 {
+    font-size: 14px;
+    color:#676767;
+}
+.info hr {
+    color:#000;
+}
+.first {
+    padding-bottom:72px;
+}
+.second p{
+font-size: 10px;
+color:#666666;    
+}
+.icon-item {
+    border:3px solid #ffa800;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background:#e8e8e8;
+    margin:0 auto;
+}
+.info .container {
+    padding-bottom:100px;
+}
+.btn {
+    border-right: none;
+    border-left:none;
+    border-top:none;
+}
+.photo-items {
+    margin-top:20px;
+}
+.photo-items img {
+    transition: 0.7s;
+}
+.photo-items img:hover {
+    transform: scale(1.05);
+    cursor:pointer;
+}
+.text-1 {
+    font-size: 16px;
+    color:#000000;
+}
+.text-2 {
+    color:#676767;
+    padding-bottom:45px;
+}
+.process-text h4 {
+    font-size: 30px;
+}
+.process-text span {
+  color:#ffa800; 
+}
+.process-body h3 {
+  font-size: 30px;  
+  color:#000;
+  margin-top:20px;
+  margin-bottom:30px;
+}
+.process-text1 {
+    font-size: 16px;
+    color:#000;
+    margin-bottom:15px;
+}
+.process-text2 {
+    color:#595959;
+    font-size: 14px;
+}
+.process-body p {
+    width: 500px;
+}
+.process-body img {
+    width: 100%;
+}
+
+.process {
+  padding-bottom:65px;  
+}
+.services {
+    background: url(../images/joker\ bg.jpg);
+    background-size: cover;
+    margin-bottom:90px;
+}
+.services p {
+    font-size: 11px;
+    color:#f5f5f7;
+}
+.services span {
+    color:#ffa800;
+}
+.services h3 {
+    padding-top:45px;
+    padding-bottom:20px;
+}
+.services .row {
+    padding-bottom:60px;
+}
+.team span {
+    color:#ffa800;
+}
+.team h3 {
+  font-size: 50px;  
+  padding-bottom:20px;
+}
+.team h4 {
+  font-size: 16px;
+  color:#000;  
+}
+.team p{
+ color:#595959;
+  font-size: 14px; 
+  padding-top:20px;
+  padding-bottom:35px; 
+}
+.fourth p {
+  line-height: 1px;  
+}
+.fourth h5 {
+    line-height: 5px;;
+}
+.team {
+    padding-bottom: 150px;
+}
+.tests {
+    background: #000;
+}
+.tests h4 {
+    font-size: 30px;
+    width: 180px;
+    margin-top:52px;
+    border-bottom:1px solid #fff;
+    padding-bottom:5px;
+    margin-bottom:70px;
+}
+.tests span {
+    color:#ffa800;
+}
+.paragraph-2 {
+    margin-bottom:160px;
+}
+.founder {
+    width: 130px;
+    height: 130px;
+    border:3px solid #ffa800;
+    border-radius:50%;
+    margin-top:100px;
+    margin:0 auto;
+}
+.founder h3, p {
+  font-size: 16px;  
+}
+#name, #textarea {
+   width: 415px; 
+}
+#textarea {
+
+}
+#email {
+    margin-left:55px;
+}
+.contact h3 {
+    padding-top:50px;
+    font-size: 30px;
+    border-bottom:2px solid #fff;
+    padding-bottom:5px;
+    margin-bottom:20px;
+    width: 170px;
+}
+.contact span {
+    color:#ffa800;
+}
+#name {
+ margin-bottom:20px;   
+}
+.number, .email {
+    margin-bottom:20px;
+}
+#textarea {
+    margin-top:20px;
+    height: 75px;
+}
+.contact {
+    background: #2046b3;
+}
+.loc a {
+    color:#fff !important;
+}
+.contact hr {
+    width: 300px;
+    border:1px solid #fff;
+    height: 5px;
+}
+.social {
+    margin-right:10px;
+}
+.contact {
+    padding-bottom:40px;
+}
+
